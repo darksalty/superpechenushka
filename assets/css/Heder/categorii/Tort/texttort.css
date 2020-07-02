@@ -1,0 +1,16 @@
+.TextTort {
+    position: absolute;
+    height: 16px;
+    left: 0%;
+    right: 87.5%;
+    top: calc(50% - 16px/2 + 26.5px);
+
+    font-family: Abhaya Libre;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #4D4D4D;
+}

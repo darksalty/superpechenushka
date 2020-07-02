@@ -1,0 +1,15 @@
+.PhoneText {
+    position: absolute;
+    height: 19px;
+    left: 12.08%;
+    right: 79.1%;
+    top: calc(50% - 19px/2 - 59px);
+    
+    font-family: Abhaya Libre;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+     
+    color: #4D4D4D;
+}

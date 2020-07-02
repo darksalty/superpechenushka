@@ -1,0 +1,15 @@
+.O_Nas {
+    position: absolute;
+    height: 19px;
+    left: 70%;
+    right: -0.71%;
+    top: calc(50% - 19px/2 - 0.5px);
+    
+    font-family: Abhaya Libre;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #4D4D4D;
+}

@@ -1,0 +1,19 @@
+.Pe4enieText{
+    position: absolute;
+height: 16px;
+left: 37.5%;
+right: 50%;
+top: calc(50% - 16px/2 + 27.5px);
+
+font-family: Abhaya Libre;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+
+text-align: center;
+
+color: #4D4D4D;
+
+}

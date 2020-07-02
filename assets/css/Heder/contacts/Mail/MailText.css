@@ -1,0 +1,17 @@
+.MailText {
+    position: absolute;
+    height: 19px;
+    left: 77.15%;
+    right: 10.42%;
+    top: calc(50% - 19px/2 - 59px);
+    
+    font-family: Abhaya Libre;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    
+    text-align: right;
+    
+    color: #4D4D4D;
+}
